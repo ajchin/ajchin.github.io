@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a fifth year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
 
-On the methodology front, I am interested the inferential challenges posed by complex data generating processes, such as those found in social science settings.  Toward that end I have mostly worked on causal inference in the presence of interference.
+On the methodology front, I am interested in the inferential challenges posed by complex data generating processes, such as those found in social science settings.  Toward that end I have mostly worked on techniques for handling interference and spillover effects using tools from causal inference and machine learning.
 On the engineering front, I am interested in building scalable, production-quality data science software that enable companies to achieve their business objectives.
 
 
