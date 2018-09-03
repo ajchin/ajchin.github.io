@@ -10,7 +10,7 @@ redirect_from:
 
 # Alex Chin
 
-<img src="profile.png" width="100">
+<img src="profile.png" width="250">
 
 **email**: ajchin AT stanford DOT edu
 
