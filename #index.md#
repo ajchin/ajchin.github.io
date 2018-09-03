@@ -1,4 +1,3 @@
----
 permalink: /
 title: "Alex Chin"
 excerpt: "About me"
@@ -20,6 +19,11 @@ redirect_from:
 ## about
 
 I am currently a fifth year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
+
+My interests include.
+
+I am also interested in the practice of ethical data science, encapsulating issues ranging from privacy to social good.
+
 
 
 ## research
