@@ -7,14 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
-<style>
-body {
-    font-family: 'Open Sans';font-size: 22px;
-}
-</style>
-
-<body>
+<link rel="stylesheet" href="path/to/css/modest.css">
 # Alex Chin
 
 <img src="profile.png" width="250">
@@ -76,4 +69,3 @@ Before coming to Stanford, I was a [Park Scholar](https://park.ncsu.edu/) at NC 
 * B.S. Economics, NC State University, 2014
 * Minor in Linguistics, NC State University, 2014
 
-</body>
