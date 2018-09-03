@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+# Alex Chin
+
 **email**: ajchin AT stanford DOT edu
 
 [[twitter](https://twitter.com/ajwchin)] [[linkedin](https://www.linkedin.com/in/ajwchin/)] [[google scholar](https://scholar.google.com/citations?user=l-qCAaAAAAAJ&hl=en)]
