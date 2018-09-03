@@ -10,6 +10,8 @@ redirect_from:
 
 # Alex Chin
 
+![profile](profile.png)
+
 **email**: ajchin AT stanford DOT edu
 
 [[twitter](https://twitter.com/ajwchin)] [[linkedin](https://www.linkedin.com/in/ajwchin/)] [[google scholar](https://scholar.google.com/citations?user=l-qCAaAAAAAJ&hl=en)]
