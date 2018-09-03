@@ -7,7 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<body style="font-family:Open Sans">
+<head>
+<link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Open Sans';font-size: 22px;
+}
+</style>
+</head>
 
 # Alex Chin
 
