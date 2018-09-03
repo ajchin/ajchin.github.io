@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<link rel="stylesheet" href="path/to/css/modest.css">
+
 # Alex Chin
 
 <img src="profile.png" width="250">
