@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
 
 I am in <span style="font-family:Open Sans; font-size:4em;">open sans now txt!</span>
 
