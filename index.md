@@ -7,14 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<head>
-<link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
-<style>
-body {
-    font-family: 'Open Sans';font-size: 22px;
-}
-</style>
-</head>
+
+I am in <span style="font-family:Open Sans; font-size:4em;">open sans now txt!</span>
 
 # Alex Chin
 
@@ -28,6 +22,10 @@ body {
 ## about
 
 I am currently a fifth year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
+
+My interests include.
+
+I am also interested in the practice of ethical data science, encapsulating issues ranging from privacy to social good.
 
 
 
