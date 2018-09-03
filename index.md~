@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Alex Chin
-
 <img src="profile.png" width="250">
 
 **email**: ajchin AT stanford DOT edu
