@@ -28,9 +28,11 @@ I am also interested in the practice of ethical data science, encapsulating issu
 ## research
 
 A. Chin, Regression adjustments for estimating the global treatment effect in experiments with interference, August 2018.  [[arXiv](https://arxiv.org/abs/1808.08683)]
+
 * An approach to removing bias in the presence of interference that relies on regression adjustments rather than exposure models or graph clustering.
 
 A. Chin, Central limit theorems via Stein's method for randomized experiments under interference, April 2018. [[arXiv](https://arxiv.org/abs/1804.03105)]
+
 * Methods for establishing CLTs for treatment effect estimators under the dependencies implied by interference.
 
 ## teaching
