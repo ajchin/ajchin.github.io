@@ -46,7 +46,7 @@ I have TA'd the following courses at Stanford:
 ## work experience
 
 #### Data Science R&D Intern, [Civis Analytics](https://www.civisanalytics.com/), Chicago, IL, Summer 2018
-I worked on building a media attribution and optimization platform for both political and commercial applications.
+I worked on a platform for media attribution and optimization.
 
 #### Core Data Science Intern, [Facebook](https://research.fb.com/category/data-science/), Menlo Park, CA, Summer 2017
 I worked with the Experimental Design and Causal Inference team to optimize design and analysis for dyad-level experiments.  I presented my work at the [2017 Conference on Digital Experimentation](http://ide.mit.edu/sites/default/files/agendas/CODE%202017%20Agenda.pdf).
