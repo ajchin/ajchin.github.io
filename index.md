@@ -22,10 +22,16 @@ redirect_from:
 I am currently a fifth year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
 
 On the methodology front, I am interested in the inferential challenges posed by complex data generating processes, such as those found in social science settings.  Toward that end I have mostly worked on techniques for handling interference and spillover effects using tools from causal inference and machine learning.
-On the engineering front, I am interested in building scalable, production-quality data science software that enable companies to achieve their business objectives.
+On the engineering front, I am interested in building scalable, production-quality data science software that enables companies to achieve their business objectives.
 
 
 ## research
+
+### in progress
+
+
+
+### papers
 
 A. Chin, Regression adjustments for estimating the global treatment effect in experiments with interference, August 2018.  [[arXiv](https://arxiv.org/abs/1808.08683)]
 
@@ -35,27 +41,13 @@ A. Chin, Central limit theorems via Stein's method for randomized experiments un
 
 * Methods for establishing CLTs for treatment effect estimators under the dependencies implied by interference.
 
-## teaching
-
-I have TA'd the following courses at Stanford:
-
-* stats 305c: PhD applied statistics, Spring 2018
-* stats 305a: PhD applied statistics, Autumn 2017 and Autumn 2018
-* stats 231: theory of machine learning, Spring 2017
-* stats 216: introduction to statistical learning, Summer 2015 and Winter 2016
-* stats 200: introduction to statistical inference, Autumn 2016
-* stats 191: introduction to applied statistics, Winter 2015
-* stats 60: introduction to statistical methods, Spring 2015 and Autumn 2015
-* stats 50: mathematics of sports, Spring 2016
-
-
 ## work experience
 
 #### Data Science R&D Intern, [Civis Analytics](https://www.civisanalytics.com/), Chicago, IL, Summer 2018
 I worked on a platform for media attribution and optimization.
 
 #### Core Data Science Intern, [Facebook](https://research.fb.com/category/data-science/), Menlo Park, CA, Summer 2017
-I worked with the Experimental Design and Causal Inference team to optimize design and analysis for dyad-level experiments.  I presented my work at the [2017 Conference on Digital Experimentation](http://ide.mit.edu/sites/default/files/agendas/CODE%202017%20Agenda.pdf).
+I worked with the Experimental Design and Causal Inference team to optimize design and analysis for dyad-level experiments.
 
 #### Modeling Scientist Intern, [Quantcast](https://www.quantcast.com/), San Francisco, CA, Summer 2016
 I built a MapReduce expectation-maximization system for training large mixture classification models.
@@ -70,3 +62,23 @@ Before coming to Stanford, I was a [Park Scholar](https://park.ncsu.edu/) at NC 
 * Minor in Linguistics, NC State University, 2014
 
 My resume is available [here](resume.pdf).
+
+## conferences
+* [CODE, October 2018](http://ide.mit.edu/events/2018-conference-digital-experimentation-code-0), Cambridge
+* [ACIC, May 2018](https://www.cmu.edu/acic2018/), Pittsburgh
+* [CODE, October 2017](http://ide.mit.edu/sites/default/files/agendas/CODE%202017%20Agenda.pdf) Cambridge
+* [NIPS, December 2016](https://nips.cc/Conferences/2016), Barcelona
+
+## teaching
+
+I have TA'd the following courses at Stanford:
+
+* stats 305c: PhD applied statistics, Spring 2018
+* stats 305a: PhD applied statistics, Autumn 2017 and Autumn 2018
+* stats 231: theory of machine learning, Spring 2017
+* stats 216: introduction to statistical learning, Summer 2015 and Winter 2016
+* stats 200: introduction to statistical inference, Autumn 2016
+* stats 191: introduction to applied statistics, Winter 2015
+* stats 60: introduction to statistical methods, Spring 2015 and Autumn 2015
+* stats 50: mathematics of sports, Spring 2016
+
