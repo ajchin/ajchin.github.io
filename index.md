@@ -66,7 +66,7 @@ My resume is available [here](resume.pdf).
 ## conferences
 * [CODE, October 2018](http://ide.mit.edu/events/2018-conference-digital-experimentation-code-0), Cambridge
 * [ACIC, May 2018](https://www.cmu.edu/acic2018/), Pittsburgh
-* [CODE, October 2017](http://ide.mit.edu/sites/default/files/agendas/CODE%202017%20Agenda.pdf) Cambridge
+* [CODE, October 2017](http://ide.mit.edu/sites/default/files/agendas/CODE%202017%20Agenda.pdf), Cambridge
 * [NIPS, December 2016](https://nips.cc/Conferences/2016), Barcelona
 
 ## teaching
