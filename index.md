@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a fifth year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
 
-On the methodology front, I am interested in the inferential challenges posed by complex data generating processes, such as those found in social science settings.  Toward that end I have mostly worked on techniques for handling interference and spillover effects using tools from causal inference and machine learning.
+On the methodology front, I am interested in the inferential challenges posed by complex data generating processes, such as those found in social science settings.  Toward that end I have mostly worked on techniques for testing and estimation in the presence of interference and spillover effects using tools from causal inference and machine learning.
 On the engineering front, I am interested in building scalable, production-quality data science software that enables companies to achieve their business objectives.
 
 
@@ -55,7 +55,7 @@ Before coming to Stanford, I was a [Park Scholar](https://park.ncsu.edu/) at NC 
 * B.S. Economics, NC State University, 2014
 * Minor in Linguistics, NC State University, 2014
 
-My resume is available [here](resume.pdf).
+My CV is available [here](cv.pdf).
 
 ## conferences
 * [CODE, October 2018](http://ide.mit.edu/events/2018-conference-digital-experimentation-code-0), Cambridge
@@ -67,8 +67,8 @@ My resume is available [here](resume.pdf).
 
 I have TA'd the following courses at Stanford:
 
-* stats 305c: PhD applied statistics, Spring 2018
-* stats 305a: PhD applied statistics, Autumn 2017 and Autumn 2018
+* stats 305c: PhD applied statistics (multivariate statistics), Spring 2018
+* stats 305a: PhD applied statistics (linear models), Autumn 2017 and Autumn 2018
 * stats 231: theory of machine learning, Spring 2017
 * stats 216: introduction to statistical learning, Summer 2015 and Winter 2016
 * stats 200: introduction to statistical inference, Autumn 2016
