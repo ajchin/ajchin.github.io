@@ -38,7 +38,7 @@ A. Chin, Central limit theorems via Stein's method for randomized experiments un
 ## work experience
 
 #### Data Science R&D Intern, [Civis Analytics](https://www.civisanalytics.com/), Chicago, IL, Summer 2018
-I worked on a platform for media attribution and optimization.
+I worked on a platform for measuring the effectiveness of political ads.
 
 #### Core Data Science Intern, [Facebook](https://research.fb.com/category/data-science/), Menlo Park, CA, Summer 2017
 I worked with the Experimental Design and Causal Inference team to optimize design and analysis for dyad-level experiments.
