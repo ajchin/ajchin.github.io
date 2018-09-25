@@ -27,6 +27,8 @@ On the engineering front, I am interested in building scalable, production-quali
 
 ## research
 
+A. Chin, D. Eckles, and J. Ugander, Evaluating stochastic seeding strategies in networks, September 2018.  [arXiv]
+
 A. Chin, Regression adjustments for estimating the global treatment effect in experiments with interference, August 2018.  [[arXiv](https://arxiv.org/abs/1808.08683)]
 
 * An approach to removing bias in the presence of interference that relies on regression adjustments rather than exposure models or graph clustering.
