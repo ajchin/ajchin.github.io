@@ -27,7 +27,7 @@ On the engineering front, I am interested in building scalable, production-quali
 
 ## research
 
-A. Chin, D. Eckles, and J. Ugander, Evaluating stochastic seeding strategies in networks, September 2018.  [arXiv]
+A. Chin, D. Eckles, and J. Ugander, Evaluating stochastic seeding strategies in networks, September 2018.  [[arXiv](https://arxiv.org/abs/1809.09561)]
 
 * Better design and analysis of experiments for comparing seeding strategies.
 
