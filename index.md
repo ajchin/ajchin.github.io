@@ -59,8 +59,6 @@ Before coming to Stanford, I was a [Park Scholar](https://park.ncsu.edu/) at NC 
 * B.S. Economics, NC State University, 2014
 * Minor in Linguistics, NC State University, 2014
 
-My CV is available [here](cv.pdf).
-
 ## conferences
 * [CODE, October 2018](http://ide.mit.edu/events/2018-conference-digital-experimentation-code-0), Cambridge
 * [ACIC, May 2018](https://www.cmu.edu/acic2018/), Pittsburgh
