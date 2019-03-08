@@ -19,25 +19,17 @@ redirect_from:
 
 ## about
 
-I am currently a fifth year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
+I am a statistician and data scientist with experience in both academic research and at a variety of different industry firms.  Currently I am a fifth-year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
 
-On the methodology front, I am interested in the inferential challenges posed by complex data generating processes, such as those found in social science settings.  Toward that end I have mostly worked on techniques for testing and estimation in the presence of interference and spillover effects using tools from causal inference and machine learning.
-On the engineering front, I am interested in building scalable, production-quality data science software that enables companies to achieve their business objectives.
-
+Methodology-wise, I am interested in the inferential challenges posed by complex data generating processes. My expertise in this domain includes causal inference, machine learning, and experimental design. Engineering-wise, I am interested in building scalable, end-to-end, production-quality data science software. I like to focus on combining these methodology and engineering skillsets to tackle challenging problems and build impactful data science product solutions.
 
 ## research
 
 A. Chin, D. Eckles, and J. Ugander, Evaluating stochastic seeding strategies in networks, September 2018.  [[arXiv](https://arxiv.org/abs/1809.09561)]
 
-* Better design and analysis of experiments for comparing seeding strategies.
-
 A. Chin, Regression adjustments for estimating the global treatment effect in experiments with interference, August 2018.  [[arXiv](https://arxiv.org/abs/1808.08683)]
 
-* An approach to removing bias in the presence of interference that relies on regression adjustments rather than exposure models or graph clustering.
-
 A. Chin, Central limit theorems via Stein's method for randomized experiments under interference, April 2018. [[arXiv](https://arxiv.org/abs/1804.03105)]
-
-* Methods for establishing CLTs for treatment effect estimators under the dependencies implied by interference.
 
 ## work experience
 
