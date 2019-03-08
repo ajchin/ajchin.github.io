@@ -19,7 +19,7 @@ redirect_from:
 
 ## about
 
-I am a statistician and data scientist with experience in both academic research and at a variety of different industry firms.  Currently I am a fifth-year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
+I am a statistician and data scientist with experience in both academic research and at a variety of different industry firms.  
 
 Methodology-wise, I am interested in the inferential challenges posed by complex data generating processes. My expertise in this domain includes causal inference, machine learning, and experimental design. Engineering-wise, I am interested in building scalable, end-to-end, production-quality data science software. I like to focus on combining these methodology and engineering skillsets to tackle challenging problems and build impactful data science product solutions.
 
@@ -44,12 +44,12 @@ I built a MapReduce expectation-maximization system for training large mixture c
 
 ## education
 
+I completed my PhD in [Statistics](https://statistics.stanford.edu/) at Stanford in March 2019, working with [Johan Ugander](https://web.stanford.edu/~jugander/).  My [thesis](thesis-augmented.pdf) was on causal inference under interference.
+
 Before coming to Stanford, I was a [Park Scholar](https://park.ncsu.edu/) at NC State.  I also spent a semester studying math in [Budapest, Hungary](https://www.budapestsemesters.com/).
 
-* Ph.D Statistics, Stanford University, *expected 2019*
-* B.S. Mathematics, NC State University, 2014
-* B.S. Economics, NC State University, 2014
-* Minor in Linguistics, NC State University, 2014
+* Ph.D Statistics, Stanford University, March 2019
+* B.S. Mathematics, B.S. Economics, Minor in Linguistics, NC State University, May 2014
 
 ## conferences
 * [CODE, October 2018](http://ide.mit.edu/events/2018-conference-digital-experimentation-code-0), Cambridge
