@@ -19,10 +19,12 @@ redirect_from:
 
 ## about
 
-I am a statistician and data scientist with experience in both academic research and at a variety of different industry firms.  Currently I am a fifth-year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
+I am currently a fifth-year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
 <!---I completed my PhD in [Statistics](https://statistics.stanford.edu/) at Stanford in March 2019, working with [Johan Ugander](https://web.stanford.edu/~jugander/).  My [thesis](thesis-augmented.pdf) was on causal inference under interference.  -->
 
 Methodology-wise, I am interested in the inferential challenges posed by complex data generating processes. My expertise in this domain includes causal inference, machine learning, and experimental design. Engineering-wise, I am interested in building scalable, end-to-end, production-quality data science software. I like to focus on combining these methodology and engineering skillsets to tackle challenging problems and build impactful data science product solutions.
+
+Here is my [cv](alex-chin-cv.pdf).
 
 ## research
 
