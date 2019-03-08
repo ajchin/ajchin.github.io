@@ -49,7 +49,7 @@ I built a MapReduce expectation-maximization system for training large mixture c
 
 Before coming to Stanford, I was a [Park Scholar](https://park.ncsu.edu/) at NC State.  I also spent a semester studying math in [Budapest, Hungary](https://www.budapestsemesters.com/).
 
-* Ph.D Statistics, Stanford University, March 2019. [thesis](thesis-augmented.pdf)
+* Ph.D Statistics, Stanford University, March 2019 [[thesis](thesis-augmented.pdf)]
 * B.S. Mathematics, B.S. Economics, Minor in Linguistics, NC State University, May 2014
 
 ## conferences
