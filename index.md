@@ -24,7 +24,7 @@ I am currently a fifth-year PhD student at Stanford in the [Department of Statis
 
 Methodology-wise, I am interested in the inferential challenges posed by complex data generating processes. My expertise in this domain includes causal inference, machine learning, and experimental design. Engineering-wise, I am interested in building scalable, end-to-end, production-quality data science software. I like to focus on combining these methodology and engineering skillsets to tackle challenging problems and build impactful data science product solutions.
 
-Here is my [CV](alex-chin-cv.pdf).
+<!---Here is my [CV](alex-chin-cv.pdf).--->
 
 ## research
 
