@@ -19,7 +19,8 @@ redirect_from:
 
 ## about
 
-I am a statistician and data scientist with experience in both academic research and at a variety of different industry firms.  
+I am a statistician and data scientist with experience in both academic research and at a variety of different industry firms.  Currently I am a fifth-year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
+<!---I completed my PhD in [Statistics](https://statistics.stanford.edu/) at Stanford in March 2019, working with [Johan Ugander](https://web.stanford.edu/~jugander/).  My [thesis](thesis-augmented.pdf) was on causal inference under interference.  -->
 
 Methodology-wise, I am interested in the inferential challenges posed by complex data generating processes. My expertise in this domain includes causal inference, machine learning, and experimental design. Engineering-wise, I am interested in building scalable, end-to-end, production-quality data science software. I like to focus on combining these methodology and engineering skillsets to tackle challenging problems and build impactful data science product solutions.
 
@@ -43,8 +44,6 @@ I worked with the Experimental Design and Causal Inference team to optimize desi
 I built a MapReduce expectation-maximization system for training large mixture classification models.
 
 ## education
-
-I completed my PhD in [Statistics](https://statistics.stanford.edu/) at Stanford in March 2019, working with [Johan Ugander](https://web.stanford.edu/~jugander/).  My [thesis](thesis-augmented.pdf) was on causal inference under interference.
 
 Before coming to Stanford, I was a [Park Scholar](https://park.ncsu.edu/) at NC State.  I also spent a semester studying math in [Budapest, Hungary](https://www.budapestsemesters.com/).
 
