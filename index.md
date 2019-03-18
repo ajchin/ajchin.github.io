@@ -19,8 +19,7 @@ redirect_from:
 
 ## about
 
-I am currently a fifth-year PhD student at Stanford in the [Department of Statistics](https://statistics.stanford.edu/) working with [Johan Ugander](https://web.stanford.edu/~jugander/).
-<!---I completed my PhD in [Statistics](https://statistics.stanford.edu/) at Stanford in March 2019, working with [Johan Ugander](https://web.stanford.edu/~jugander/).  My [thesis](thesis-augmented.pdf) was on causal inference under interference.  -->
+I completed my PhD in [Statistics](https://statistics.stanford.edu/) at Stanford in March 2019, working with [Johan Ugander](https://web.stanford.edu/~jugander/).  My thesis was on causal inference under interference.
 
 Methodology-wise, I am interested in the inferential challenges posed by complex data generating processes. My expertise in this domain includes causal inference, machine learning, and experimental design. Engineering-wise, I am interested in building scalable, end-to-end, production-quality data science software. I like to focus on combining these methodology and engineering skillsets to tackle challenging problems and build impactful data science product solutions.
 
@@ -49,7 +48,7 @@ I built a MapReduce expectation-maximization system for training large mixture c
 
 Before coming to Stanford, I was a [Park Scholar](https://park.ncsu.edu/) at NC State.  I also spent a semester studying math in [Budapest, Hungary](https://www.budapestsemesters.com/).
 
-* Ph.D Statistics, Stanford University, March 2019 [[thesis](thesis-augmented.pdf)]
+* Ph.D. Statistics, M.S. Statistics, Stanford University, March 2019 [[thesis](thesis-augmented.pdf)]
 * B.S. Mathematics, B.S. Economics, Minor in Linguistics, NC State University, May 2014
 
 ## conferences
@@ -60,7 +59,7 @@ Before coming to Stanford, I was a [Park Scholar](https://park.ncsu.edu/) at NC 
 
 ## teaching
 
-I have TA'd the following courses at Stanford:
+I TA'd the following courses at Stanford:
 
 * stats 305c: PhD applied statistics (multivariate statistics), Spring 2018
 * stats 305a: PhD applied statistics (linear models), Autumn 2017 and Autumn 2018
