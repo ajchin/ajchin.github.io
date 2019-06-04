@@ -10,7 +10,7 @@ redirect_from:
 
 # Alex Chin
 
-<img src="profile.png" width="250">
+<img src="trevi.png" width="250">
 
 **email**: ajchin AT stanford DOT edu
 
@@ -19,7 +19,7 @@ redirect_from:
 
 ## about
 
-I completed my PhD in [Statistics](https://statistics.stanford.edu/) at Stanford in March 2019, working with [Johan Ugander](https://web.stanford.edu/~jugander/).  My thesis was on causal inference under interference.
+I completed my PhD in [Statistics](https://statistics.stanford.edu/) at Stanford in March 2019, working with [Johan Ugander](https://web.stanford.edu/~jugander/).  My thesis on causal inference under interference received the Ingram Olkin Interdisciplinary Research Award from the Statistics Department.
 
 Methodology-wise, I am interested in the inferential challenges posed by complex data generating processes. My expertise in this domain includes causal inference, machine learning, and experimental design. Engineering-wise, I am interested in building scalable, end-to-end, production-quality data science software. I like to focus on combining these methodology and engineering skillsets to tackle challenging problems and build impactful data science product solutions.
 
