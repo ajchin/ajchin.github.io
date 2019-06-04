@@ -10,7 +10,7 @@ redirect_from:
 
 # Alex Chin
 
-<img src="trevi.png" width="250">
+<img src="trevi.jpeg" width="250">
 
 **email**: ajchin AT stanford DOT edu
 
@@ -27,11 +27,11 @@ Methodology-wise, I am interested in the inferential challenges posed by complex
 
 ## research
 
-A. Chin, D. Eckles, and J. Ugander, Evaluating stochastic seeding strategies in networks, September 2018.  [[arXiv](https://arxiv.org/abs/1809.09561)]
-
 A. Chin, Regression adjustments for estimating the global treatment effect in experiments with interference, August 2018.  [[arXiv](https://arxiv.org/abs/1808.08683)]
 
-A. Chin, Central limit theorems via Stein's method for randomized experiments under interference, April 2018. [[arXiv](https://arxiv.org/abs/1804.03105)]
+A. Chin, Central limit theorems via Stein's method for randomized experiments under interference, March 2019. [[arXiv](https://arxiv.org/abs/1804.03105)]
+
+A. Chin, D. Eckles, and J. Ugander, Evaluating stochastic seeding strategies in networks, January 2019.  [[arXiv](https://arxiv.org/abs/1809.09561)]
 
 ## work experience
 
@@ -49,6 +49,7 @@ I built a MapReduce expectation-maximization system for training large mixture c
 Before coming to Stanford, I was a [Park Scholar](https://park.ncsu.edu/) at NC State.  I also spent a semester studying math in [Budapest, Hungary](https://www.budapestsemesters.com/).
 
 * Ph.D. Statistics, M.S. Statistics, Stanford University, March 2019 [[thesis](thesis-augmented.pdf)]
+    - Ingram Olkin Interdisciplinary Research Dissertation Award
 * B.S. Mathematics, B.S. Economics, Minor in Linguistics, NC State University, May 2014
 
 ## conferences
