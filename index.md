@@ -10,7 +10,7 @@ redirect_from:
 
 # Alex Chin
 
-<img src="trevi.jpeg" width="250">
+<img src="trevi.jpg" width="250">
 
 **email**: ajchin AT stanford DOT edu
 
