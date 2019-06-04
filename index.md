@@ -27,7 +27,7 @@ Methodology-wise, I am interested in the inferential challenges posed by complex
 
 ## research
 
-A. Chin, Regression adjustments for estimating the global treatment effect in experiments with interference, August 2018.  [[arXiv](https://arxiv.org/abs/1808.08683)]
+A. Chin, Regression adjustments for estimating the global treatment effect in experiments with interference, Journal of Causal Inference, May 2019.  [[arXiv](https://arxiv.org/abs/1808.08683)] [[JCI](https://www.degruyter.com/view/j/jci.ahead-of-print/jci-2018-0026/jci-2018-0026.xml)]
 
 A. Chin, Central limit theorems via Stein's method for randomized experiments under interference, March 2019. [[arXiv](https://arxiv.org/abs/1804.03105)]
 
